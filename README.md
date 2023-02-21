@@ -27,3 +27,23 @@
 ## Решение
 
 1. 
+![1](https://user-images.githubusercontent.com/102908269/220349967-83ed817c-9be1-421b-9b22-3f50e5928fd0.png)
+
+2.
+![2](https://user-images.githubusercontent.com/102908269/220350002-a14b82a5-4c30-46ae-9fe1-853ac1aa83e2.png)
+
+3.
+![3 (1)](https://user-images.githubusercontent.com/102908269/220350045-9c4ffde6-9cb0-4cd9-ad5f-782af759dc94.png)
+![3 (2)](https://user-images.githubusercontent.com/102908269/220350054-0bdefa08-1024-437f-b2ef-65c5c57cc4bc.png)
+![3 (3)](https://user-images.githubusercontent.com/102908269/220350078-a3cd3513-d71c-4920-a7a5-1c5db7f5aebc.png)
+
+4.
+![4 (1)](https://user-images.githubusercontent.com/102908269/220350096-699867f7-c1f4-478c-a31b-9b30dfce965b.png)
+![4 (2)](https://user-images.githubusercontent.com/102908269/220350115-805d4cbb-ae9b-4263-bf1a-9f455889e60f.png)
+![4 (3)](https://user-images.githubusercontent.com/102908269/220350145-f3c83101-e6ad-4ca3-b448-89d730b14345.png)
+
+5.
+![5](https://user-images.githubusercontent.com/102908269/220350171-94087890-3b15-4eea-b1ac-65ba66b8387f.png)
+
+6.
+![Диаграмма_Друзья человека](https://user-images.githubusercontent.com/102908269/220350199-25990244-f666-4ca6-a299-64ea00cc4d56.png)
